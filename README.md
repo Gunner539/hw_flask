@@ -1,5 +1,5 @@
 # Примеры запросов в файле:
-    [a relative link](requests-examples.http)
+    [requests-examples.http](/requests-examples.http)
 
 ## Задание 1
 

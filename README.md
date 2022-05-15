@@ -1,5 +1,6 @@
 # Примеры запросов в файле:
-    [requests-examples.http](/requests-examples.http)
+
+[requests-examples.http](/requests-examples.http)
 
 ## Задание 1
 
